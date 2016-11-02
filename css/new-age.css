@@ -233,7 +233,7 @@ section h2 {
 section.download {
   padding: 150px 0;
   position: relative;
-  height: 87%;
+  height: calc(100vh - 139px);
 }
 section.download h2 {
   margin-top: 0;
@@ -478,4 +478,10 @@ body {
   line-height: 20px;
   color: #999;
   width: 250px;
+}
+.invite-button {
+
+}
+.invite-button:hover {
+
 }
