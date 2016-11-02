@@ -216,7 +216,7 @@ header .device-container {
   header .device-container {
     max-width: none;
     max-height: calc(0vh);
-    margin: 370px auto 0;
+    margin: 220px auto 0;
   }
 }
 @media (min-width: 992px) {
