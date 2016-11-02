@@ -473,7 +473,6 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
-<<<<<<< HEAD
 .form-button {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   text-transform: uppercase;
@@ -498,5 +497,3 @@ body {
   color: #999;
   width: 250px;
 }
-=======
->>>>>>> bcbabc44b6c0f3941c0a7280aa590466b367c48f
