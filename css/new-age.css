@@ -181,6 +181,7 @@ header .header-content .header-content-inner .list-badges img {
   height: 50px;
   margin-bottom: 25px;
 }
+<<<<<<< HEAD
 @media (max-width: 768px) {
   header .device-container {
     max-width: inherit !important;
@@ -193,6 +194,14 @@ header .device-container {
 header .device-container .screen img {
   border-radius: 3px;
   max-width: inherit;
+=======
+header .device-container {
+  max-width: 300px;
+  margin: 0 auto 100px;
+}
+header .device-container .screen img {
+  border-radius: 3px;
+>>>>>>> bcbabc44b6c0f3941c0a7280aa590466b367c48f
 }
 @media (min-width: 768px) {
   header {
@@ -216,8 +225,12 @@ header .device-container .screen img {
   header .device-container {
     max-width: none;
     max-height: calc(0vh);
+<<<<<<< HEAD
     /*margin: 100px auto 0;*/
     margin: 370px auto 0;
+=======
+    margin: 100px auto 0;
+>>>>>>> bcbabc44b6c0f3941c0a7280aa590466b367c48f
   }
 }
 @media (min-width: 992px) {
@@ -281,7 +294,10 @@ section.features .device-container {
 @media (min-width: 992px) {
   section.features .device-container {
     margin-bottom: 0;
+<<<<<<< HEAD
     /*margin: 360px auto 0 !important;*/
+=======
+>>>>>>> bcbabc44b6c0f3941c0a7280aa590466b367c48f
   }
 }
 section.features .feature-item {
@@ -457,6 +473,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+<<<<<<< HEAD
 .form-button {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   text-transform: uppercase;
@@ -481,3 +498,5 @@ body {
   color: #999;
   width: 250px;
 }
+=======
+>>>>>>> bcbabc44b6c0f3941c0a7280aa590466b367c48f
