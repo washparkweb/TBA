@@ -479,9 +479,16 @@ body {
   color: #999;
   width: 250px;
 }
+
 .invite-button {
 
 }
+
 .invite-button:hover {
 
+}
+
+.landing-content {
+  animation-duration: 1s;
+  animation-delay: 1s;
 }
