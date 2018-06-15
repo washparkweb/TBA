@@ -1,8 +1,3 @@
-/*!
- * Start Bootstrap - New Age v3.3.7 (http://startbootstrap.com/template-overviews/new-age)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
 .heading-font {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
@@ -116,7 +111,8 @@ p {
   }
   .navbar-default .navbar-header .navbar-brand:hover,
   .navbar-default .navbar-header .navbar-brand:focus {
-    color: white;
+    /*color: white;*/
+    color: #fdcc52;
   }
   .navbar-default .nav > li > a,
   .navbar-default .nav > li > a:focus {
@@ -491,4 +487,7 @@ body {
 .landing-content {
   animation-duration: 1s;
   animation-delay: 1s;
+}
+.cta-txt {
+  font-family: 'Lato';
 }
